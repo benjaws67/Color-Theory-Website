@@ -1,0 +1,84 @@
+#red {
+    
+    background-color: #FF0000;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#blue {
+    
+    background-color: #0000FF;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#yellow {
+    
+    background-color: #FFEA00;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#purple {
+    
+    background-color: #5D3FD3;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#orange {
+    
+    background-color: #FFAC1C;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#green {
+    
+    background-color: #008000;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#yellowgreen {
+    
+    background-color: #CCFF00;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#yelloworange {
+    
+    background-color: #FFBF00;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#redorange {
+    
+    background-color: #FF5349;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#redviolet {
+    
+    background-color: #c71585;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#blueviolet {
+    
+    background-color: #8a2be2 ;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#bluegreen {
+    
+    background-color: #0CBAA6;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
