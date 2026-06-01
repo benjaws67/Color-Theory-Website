@@ -1,3 +1,10 @@
+body {
+background: #6eddff;
+background: linear-gradient(90deg, rgba(110, 221, 255, 1) 0%, rgb(255, 255, 255) 100%);
+}
+
+
+
 #red {
     
     background-color: #FF0000;
@@ -256,6 +263,78 @@
 #peachfuzz {
     
     background-color: #F6C5AF;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#YaleBlue {
+    
+    background-color: #053c5e;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#DeepSpaceBlue {
+    
+    background-color: #1d3958;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#SpaceIndigo {
+    
+    background-color: #353652;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#VintageGrape {
+    
+    background-color: #4c334d;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+
+#MauveShadow {
+    
+    background-color: #643047;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#WinePlum {
+    
+    background-color: #7c2e41;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#BurntRose {
+    
+    background-color: #942b3b;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#BrownRed {
+    
+    background-color: #ab2836;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+#FlagRed {
+    
+    background-color: #c32530;
+    min-height: 50px;
+    min-width: 50px;
+    
+}
+
+#PrimaryScarlet {
+    
+    background-color: #db222a;
     min-height: 50px;
     min-width: 50px;
     
